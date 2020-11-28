@@ -1,1 +1,1 @@
-# SpringH2EmbeddedDatabaseJPA
+# SpringH2EmbeddedDatabase
